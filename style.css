@@ -5,6 +5,7 @@ body {
 
 a {
     text-decoration: none;
+    color: #7dcaee;
 
 }
 
@@ -15,6 +16,13 @@ a {
 }
 
 
+.text-gray{
+    color: #808080;
+}
+
+.text-small{
+    font-size: 12px;
+}
 
 #main-header {
     height: 100px;
