@@ -74,3 +74,37 @@ tr{
 td.even{
     background-color: #fff;
 }
+
+
+.related-article{
+    color: #fff;
+    width: 210px;
+    height: 160px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.tech-article{
+    background-image: url(./images/monitor.jpg);
+}
+
+.finance-article{
+    background-image: url(./images/graph.jpg);
+}
+
+
+
+.related-article-title{
+    margin: 0;
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+
