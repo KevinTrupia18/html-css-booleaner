@@ -31,6 +31,10 @@ a {
     background-size: 30%;
 }
 
+.w50{
+    width: 50%;
+}
+
 #logo {
     height: 50px;
     width: auto;
@@ -51,4 +55,22 @@ address{
 .article-pictures{
     margin: 20px 0;
 
+}
+
+table{
+    border-collapse: collapse;
+}
+
+th{
+    text-align: left;
+    background-color: #20a9e5;
+    color: #fff;
+}
+
+tr{
+    background-color: #b1e5f2;
+}
+
+td.even{
+    background-color: #fff;
 }
